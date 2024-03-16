@@ -1,0 +1,6 @@
+@dnapp_HostAddress = http://localhost:5142
+
+GET {{dnapp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
